@@ -1,4 +1,5 @@
 {
-    "token": "493887c0479e1f8888ce701b6de5878514199a44f9aaf2596b3407a80c052945246400a88ecfb76cac77b",
-    "mongo": "mongodb+srv://felosafs:mufrkv8z@felosafs.lwagn.mongodb.net/bot?retryWrites=true&w=majority"
+    "token": "afd86bf9073019702331ffe05eaf08fb8f13107ee2b4f3cf7c7b0fa536c7a8f2022c5749ce19e5318090e",
+    "mongo": "mongodb+srv://felosafs:mufrkv8z@felosafs.lwagn.mongodb.net/bot?retryWrites=true&w=majority",
+    "groupId": "207889807"
 }
